@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MainApp.Models.GOT.Character>
+
+@{
+    ViewBag.Title = "Characters";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<ul>
+    @foreach (var character in Model)
+    {
+        <li>@Html.ActionLink(character.Firstname, "GetCharacterByID", new { @id = character.ID })</li>
+    }
+</ul>

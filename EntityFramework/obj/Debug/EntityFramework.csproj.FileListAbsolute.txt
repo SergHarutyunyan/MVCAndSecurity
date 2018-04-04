@@ -1,0 +1,12 @@
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.exe
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.dll
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.xml
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\obj\Debug\EntityFramework.exe
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\obj\Debug\EntityFramework.pdb
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+D:\GIT\NET\MVC\PlurMVC\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete

@@ -1,0 +1,13 @@
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\MailSending.exe.config
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\MailSending.exe
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\MailSending.pdb
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\SendGrid.dll
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\Newtonsoft.Json.xml
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\SendGrid.pdb
+D:\GIT\NET\MVC\PlurMVC\MailSending\bin\Debug\SendGrid.xml
+D:\GIT\NET\MVC\PlurMVC\MailSending\obj\Debug\MailSending.csproj.CoreCompileInputs.cache
+D:\GIT\NET\MVC\PlurMVC\MailSending\obj\Debug\MailSending.csproj.CopyComplete
+D:\GIT\NET\MVC\PlurMVC\MailSending\obj\Debug\MailSending.exe
+D:\GIT\NET\MVC\PlurMVC\MailSending\obj\Debug\MailSending.pdb
+D:\GIT\NET\MVC\PlurMVC\MailSending\obj\Debug\MailSending.csprojResolveAssemblyReference.cache

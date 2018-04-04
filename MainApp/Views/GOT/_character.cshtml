@@ -1,0 +1,46 @@
+﻿@model MainApp.Models.GOT.Character
+
+
+<h3>Character Details</h3>
+
+<div style="margin:10px,10px;">
+    <table cellpadding="5" >
+        <tr>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Firstname):
+            </th>
+            <td>
+                @Html.DisplayFor(Model => Model.Firstname)
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Lastname:
+            </th>
+            <td>
+                @Model.Lastname
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Gender:
+            </th>
+            <td>
+                @Model.Gender
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Region:
+            </th>
+            <td>
+                @Model.Region
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size:large;">
+                @Html.ActionLink("Back", "GetCharacters")
+            </td>          
+        </tr>
+    </table>     
+</div>

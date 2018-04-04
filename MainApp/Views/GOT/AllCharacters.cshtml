@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MainApp.Models.GOT.Character>
+
+@{
+    ViewBag.Title = "Characters";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New Character", "CreateCharacter")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Firstname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Region)
+        </th>
+        <th>
+            @Html.DisplayName("Action")
+        </th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    using (Html.BeginForm("DeleteCharacter", "GOT", new { id = item.ID }))
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Firstname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lastname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Region)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditCharacter", new { id = item.ID }) |   
+           <input type="submit" value="Delete" onclick="return confirm('Are you sure you want to delete character @item.Firstname @item.Lastname')"/>                          
+        </td>
+    </tr>
+    }
+}
+
+</table>
