@@ -146,3 +146,4 @@ D:\GIT\NET\MVC\PlurMVC\MainApp\obj\Debug\MainApp.pdb
 D:\GIT\NET\MVC\PlurMVC\MainApp\obj\Debug\MainApp.Migrations.initial_migration.resources
 D:\GIT\NET\MVC\PlurMVC\MainApp\obj\Debug\MainApp.csproj.GenerateResource.Cache
 D:\GIT\NET\MVC\PlurMVC\MainApp\obj\Debug\MainApp.csprojResolveAssemblyReference.cache
+D:\GIT\NET\MVC\PlurMVC\MainApp\obj\Debug\MainApp.csproj.CopyComplete
